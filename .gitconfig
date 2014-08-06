@@ -1,0 +1,12 @@
+[include]
+	path = .gitconfig.local
+[core]
+	editor = vi
+[color]
+	ui = true
+[diff]
+	tool = vimdiff
+[merge]
+	tool = vimdiff
+[push]
+	default = simple
